@@ -1,14 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">	
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <url>
-<loc>http://kuiwaiwai.github.io</loc>
-<priority>0.5</priority>
-<lastmod>2019-12-31</lastmod>
-<changefreq>weekly</changefreq>
+ <loc>https://kuiwaiwai.github.io/ddfc/</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://kuiwaiwai.github.io/ddfc/index.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://kuiwaiwai.github.io/ddfc/index.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://kuiwaiwai.github.io/ddfc/about.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://kuiwaiwai.github.io/ddfc/services.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://kuiwaiwai.github.io/ddfc/portfolio.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://kuiwaiwai.github.io/ddfc/contact.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://kuiwaiwai.github.io/ddfc/下载页面/index.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://kuiwaiwai.github.io/ddfc/logo的设计.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://kuiwaiwai.github.io/ddfc/各类的疑问.html</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>https://kuiwaiwai.github.io/ddfc/kuiwaiwai.github.io</loc>
+ <mobile:mobile type="pc,mobile" />
+ <priority>0.5</priority>
+ <lastmod>2019-12-31</lastmod>
+ <changefreq>weekly</changefreq>
 </url>
 </urlset>
-
